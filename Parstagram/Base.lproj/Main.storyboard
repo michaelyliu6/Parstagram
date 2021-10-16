@@ -134,7 +134,6 @@
                                                 <constraint firstAttribute="trailing" secondItem="Kcg-Pw-D2q" secondAttribute="trailing" constant="8" id="fVa-p8-jdB"/>
                                                 <constraint firstItem="qK3-Bo-h3M" firstAttribute="top" secondItem="Kcg-Pw-D2q" secondAttribute="bottom" constant="8" id="gSi-WM-WeM"/>
                                                 <constraint firstItem="Kcg-Pw-D2q" firstAttribute="top" secondItem="Ly4-c1-8yN" secondAttribute="top" constant="8" id="taU-2l-FpG"/>
-                                                <constraint firstItem="m6M-Li-l0q" firstAttribute="leading" secondItem="qK3-Bo-h3M" secondAttribute="trailing" constant="8" id="yIk-CT-pQp"/>
                                             </constraints>
                                         </tableViewCellContentView>
                                         <connections>
